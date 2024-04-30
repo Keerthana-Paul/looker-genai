@@ -1,4 +1,4 @@
-project_name: "looker-gen-ai"
+project_name: "looker-genai"
 
 application: looker-gen-ai {
   label: "Looker GenAI Extension"
