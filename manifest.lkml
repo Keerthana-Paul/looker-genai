@@ -27,7 +27,7 @@ project_name: "looker-genai"
 application: looker-gen-ai {
   label: "Looker GenAI Extension"
   # for development:
-  url: "https://localhost:8080/bundle.js"
+ #url: "https://localhost:8080/bundle.js"
   # production
   file: "bundle.js"
   entitlements: {
